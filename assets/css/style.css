@@ -336,13 +336,13 @@ h3.hello {
 
 h3.hello span {
     font-family: 'Clicker Script', cursive;
-    font-size: 30px;
+    font-size: 29px;
     font-weight: 700;
     color: var(--skin-color);
 }
 
 h3.my-profession {
-    font-size: 30px;
+    font-size: 29px;
     margin: 15px 0;
 }
 
@@ -510,7 +510,7 @@ h3.my-profession {
     margin-top: 30px;
 }
 
-.about .about-content h3.section-title {
+.about .about-content h3.title {
     font-size: 24px;
     margin-bottom: 30px;
     font-weight: 700;
@@ -842,6 +842,9 @@ left: 270px;
         flex: 0 0 100%;
         max-width: 100%;
     }
+    h3.hello {
+        font-size: 25px;
+        margin: 15px 0;
 }
-
+}
 
